@@ -1,3 +1,5 @@
+### Concept phase for a machine learning system that prevents police "fishing expedition" techniques. Inspired by Al Capone's income tax debt.
+
 # Crime Data Scraper
 
 This Python script scrapes crime data from NDTV news articles for a given location and saves the data into a CSV file. The script uses the `requests` library to fetch the web content and `BeautifulSoup` to parse the HTML content. Additionally, it categorizes each crime based on keywords found in the title and description.
